@@ -1,0 +1,412 @@
+<img src="assets/img/wii sport.jpg" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+            <source src="wii sport.mp3" type="audio/mp3"
+            
+            <div class="carousel-item">
+                  <a href="https://www.youtube.com/watch?v=cscuCIzItZQ&t=23s" target="_blank">
+                      <img src="assets/img/coconut.jpg" class="d-block w-100" alt="">     
+                  </a>  
+                  <div class="carousel-caption d-none d-md-block">
+                      <h5>Coconut Mall - Mario Kart Wii OST</h5>
+                      <p></p>
+                      <audio controls>
+                          <source src="coconut.m4a" type="audio/m4a">
+                         </audio>
+              </div>
+               </div> 
+
+
+
+
+
+
+               <!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Nintendo Wii</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i" rel="stylesheet" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body>
+        <header>
+            <h1 class="site-heading text-center text-faded d-none d-lg-block">
+                <span class="site-heading-upper text-primary mb-3">El origen y el legado de la revolucion</span>
+                <span class="site-heading-lower">Nintendo Wii</span>
+            </h1>
+        </header>
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
+            <div class="container">
+                <a class="navbar-brand text-uppercase fw-bold d-lg-none" href="index.html">Nintendo Company</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mx-auto">
+                        <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="index.html">Origen</a></li>
+                        <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="about.html">Competencia</a></li>
+                        <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="products.html">Juegos</a></li>
+<li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" id="navbarDropdownBlog" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Contenido Extra
+                            </a>
+                            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownBlog">
+                                <li><a class="dropdown-item" href="products 3.html">Pagina 1</a></li>
+                                <li><a class="dropdown-item" href="index 2.HTML">Pagina 2</a></li>
+                                <li><a class="dropdown-item" href="about 3.html">Pagina 3</a></li>
+                                <li><a class="dropdown-item" href="index 3.HTML">Pagina 4</a></li>
+                                                            
+                            </ul>
+                        </li>
+
+                        
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        <center> <div class="col-md-8 col-lg-6 col-xl-8">
+        <section class="page-section clearfix">
+            <div class="container">
+                <div class="intro">
+                    <img class="intro-img img-fluid mb-3 mb-lg-0 rounded" src="assets/img/intro.jpg" alt="..." />
+                    <div class="intro-text left-0 text-center bg-faded p-5 rounded">
+                        <h2 class="section-heading mb-4">
+                            <span class="section-heading-upper">Pensada desde dos generaciones anteriores</span>
+                            <span class="section-heading-lower">Nintendo Revolucion</span>
+                        </h2>
+                        <p class="mb-3">Pensada desde el nintendo 64, El concepto de control por mando de Wii nacio en el año de 1999, sin embargo, la consola empezaria a ser desarrollada despues del lanzamiento del Nintendo Gamecube en el año 2001.Finalmente para el año de 2006, se lanzaria a niven mundial la consola de sobre mesa mas vendida en ese entonces, aunque originalmente tendria el nombre clave "Nintendo Revolucion",finalmente el equipo encargado de su desarrolllo,opto por el nombre definitivo "Wii"</p>
+                        <div class="intro-button mx-auto"><a class="btn btn-primary btn-xl" href="products.html">Nintendo trantando de cambiar el enfoque de la audiencia</a></div>
+                    </div>
+                </div>
+            </div>
+            </section>
+        </section>
+        <section class="page-section cta">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-9 mx-auto">
+                        <div class="cta-inner bg-faded text-center rounded">
+                            <h2 class="section-heading mb-4">
+                                <span class="section-heading-upper">El control por movimiento</span>
+                                <span class="section-heading-lower"> Wii Remote</span>
+                            </h2>
+                            <p class="mb-0">El control por movimiento fue empleado por primera vez en la historia gracias a Nintendo,que desde a finales de los noventa ya tenia esa idea,pero por falta de tecnologia "congelo" la idea para usarla años despues, Genyo Takeda y Kenichiro Ashida fueron los encargados del Hardware y Software del Wii, incluyendo el sensor de movimiento que utliza el Wii.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+        <div id="carouselExampleCaptions" class="carousel slide">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="assets/img/control.jpg" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Wii Remote</h5>
+        <p>Controles por movimientos con diferentes skins de la saga de Mario y el mando edicion especial de The Legend Of Zelda Skyward Sword.</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="assets/img/control pro.jpg" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Mando Clasico/Clasico Pro </h5>
+        <p>Controles alambricos como alternativa para el Wii Remote.</p>
+      </div>
+    </div>
+    <div class="carousel-item">
+      <img src="assets/img/nunchuck.jpg" class="d-block w-100" alt="...">
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Nunchuck</h5>
+        <p>Los Nunchucks fueron el aditamento por exelecia del Wii Remote,nesesario para algunos juegos como TLOFZ Skyward Sword,Mario Galaxy,Metroid Prime 3,etc. .</p>
+      </div>
+    </div>
+  </div>
+
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+</div></center>
+<footer class="footer text-faded text-center py-5">
+            <div class="container"><p class="m-0 small">Copyright &copy; Nintendo Entreteiment System 2023</p></div>
+        </footer>
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>Soundtracks</title>
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+    <!-- Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i" rel="stylesheet" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="css/styles.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <h1 class="site-heading text-center text-faded d-none d-lg-block">
+            <span class="site-heading-upper text-primary mb-3">Dale click en cualquier imagen para escucharla completa</span>
+            <span class="site-heading-lower">Obras Maestras de Koji Kondo</span>
+        </h1>
+    </header>
+     <!-- Navigation-->
+     <nav class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand text-uppercase fw-bold d-lg-none" href="index.html">Nintendo Company</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mx-auto">
+                    <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="index.html">Origen</a></li>
+                    <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="about.html">Competencia</a></li>
+                    <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="products.html">Juegos</a></li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" id="navbarDropdownBlog" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Contenido Extra
+                        </a>
+                        <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdownBlog">
+                            <li><a class="dropdown-item" href="products 3.html">Pagina 1</a></li>
+                            <li><a class="dropdown-item" href="index 2.HTML">Pagina 2</a></li>
+                            <li><a class="dropdown-item" href="about 3.html">Pagina 3</a></li>
+                            <li><a class="dropdown-item" href="index 3.HTML">Pagina 4</a></li>
+                                                        
+                        </ul>
+                    </li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div id="carouselExampleCaptions" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1" aria-label="Slide 2"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="2" aria-label="Slide 3"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="3" aria-label="Slide 4"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="4" aria-label="Slide 5"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="5" aria-label="Slide 6"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="6" aria-label="Slide 7"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="7" aria-label="Slide 8"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="8" aria-label="Slide 9"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="9" aria-label="Slide 10"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="10" aria-label="Slide 11"></button>
+            <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="11" aria-label="Slide 12"></button>
+        </div>
+        <div class="col-md-10 col-lg-8 col-xl-10">
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <a href="https://www.youtube.com/watch?v=2qvAxPqy2wA" target="_blank">
+                    <img src="assets/img/sport title.jpg" class="d-block w-100" alt="...">
+                </a>
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Wii Sports title theme</h5>
+                    <p></p>
+                   <audio controls>
+                    <source src="audio/wii sport.mp3" type="audio/mp3">
+                   </audio>
+                </div>
+            </div>
+
+            <div class="carousel-item">
+                <a href="https://www.youtube.com/watch?v=ON7g87QhCQo" target="_blank">
+                    <img src="assets/img/smash intro.jpg" class="d-block w-100" alt="...">
+                </a>
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Super Smash Bros Brawl Intro.</h5>
+                    <p></p>
+                    <audio controls>
+                        <source src="audio/smash.mp3" type="audio/mp3">
+                       </audio>
+                </div>
+            </div>
+
+            <div class="carousel-item">
+                <a href="https://www.youtube.com/watch?v=VpgaFpKsGVQ" target="_blank">
+                    <img src="assets/img/mii wii.jpg" class="d-block w-100" alt="...">
+                </a>
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Mii Channel Wii</h5>
+                    <p></p>
+                    <audio controls>
+                        <source src="audio/wii.mp3" type="audio/mp3">
+                       </audio>
+                </div>
+            </div>
+                
+            <div class="carousel-item">
+                <a href="https://www.youtube.com/watch?v=7tF2Gtdc_90" target="_blank">
+                    <img src="assets/img/koloctos.jpg" class="d-block w-100" alt="...">
+                </a>
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Koloktos Boss Fight The Legend Of Zelda Skyward Sword </h5>
+                    <p></p>
+                    <audio controls>
+                        <source src="audio/koloktos.mp3" type="audio/mp3">
+                  
+                       </audio>
+                </div>
+            </div>
+
+           <div class="carousel-item">
+               <a href="https://www.youtube.com/watch?v=3McI1Oo6_fw" target="_blank">
+                   <img src="assets/img/metroid.jpg" class="d-block w-100" alt="">     
+               </a>  
+               <div class="carousel-caption d-none d-md-block">
+                   <h5>Metroid Prime 3: Corruption Music - Title Theme</h5>
+                   <p></p>
+                   <audio controls>
+                    <source src="audio/metroid.mp3" type="audio/mp3">
+                   </audio>
+           </div>
+            </div> 
+            <div class="carousel-item">
+                <a href="https://www.youtube.com/watch?v=kAwwQ7dTjRY" target="_blank">
+                    <img src="assets/img/title.jpg" class="d-block w-100" alt="">     
+                </a>  
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>The legend Of Zelda Twilight Princess - Title Theme</h5>
+                    <p></p>
+                    <audio controls>
+                        <source src="audio/title.mp3" type="audio/mp3">
+                       </audio>
+            </div>
+             </div> 
+             <div class="carousel-item">
+                <a href="https://www.youtube.com/watch?v=uWLjCiKxMaE" target="_blank">
+                    <img src="assets/img/castle.jpg" class="d-block w-100" alt="">     
+                </a>  
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Castle Theme - New Super Mario Bros. Wii</h5>
+                    <p></p>
+                    <audio controls>
+                        <source src="audio/castle.mp3" type="audio/mp3">
+                       </audio>
+            </div>
+             </div> 
+             <div class="carousel-item">
+                <a href="https://www.youtube.com/watch?v=SMkvcKhVCEk" target="_blank">
+                    <img src="assets/img/skyward.jpg" class="d-block w-100" alt="">     
+                </a>  
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Ballad Of The Goddnes- The Legend Of Zelda Skyward Sword</h5>
+                    <p></p>
+                    <audio controls>
+                        <source src="audio/ballad.mp3" type="audio/mp3">
+                       </audio>
+            </div>
+             </div> 
+             <div class="carousel-item">
+                <a href="https://www.youtube.com/watch?v=LyzlPC43ugU" target="_blank">
+                    <img src="assets/img/good egg.jpg" class="d-block w-100" alt="">     
+                </a>  
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Good Egg Galaxy - Super Mario Galaxy</h5>
+                    <p></p>
+                    <audio controls>
+                        <source src="audio/egg.mp3" type="audio/mp3">
+                       </audio>
+            </div>
+             </div> 
+             <div class="carousel-item">
+                <a href="https://www.youtube.com/watch?v=137YvPWp0jI" target="_blank">
+                    <img src="assets/img/midna.jpg" class="d-block w-100" alt="">     
+                </a>  
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Midna's Lament - The Legend of Zelda Twilight Princess</h5>
+                    <p></p>
+                    <audio controls>
+                        <source src="audio/midna.mp3" type="audio/mp3">
+                       </audio>
+            </div>
+             </div> 
+             <div class="carousel-item">
+                <a href="https://www.youtube.com/watch?v=cscuCIzItZQ&t=23s" target="_blank">
+                    <img src="assets/img/coconut.jpg" class="d-block w-100" alt="">     
+                </a>  
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Coconut Mall - Mario Kart Wii OST</h5>
+                    <p></p>
+                    <audio controls>
+                        <source src="audio/coconut.mp3" type="audio/mp3">
+                    </audio>
+                </div>
+            </div> 
+             <div class="carousel-item">
+                <a href="https://www.youtube.com/watch?v=du3Zz4HrGXA" target="_blank">
+                    <img src="assets/img/gustin.jpg" class="d-block w-100" alt="">     
+                </a>  
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Gusty Garden Galaxy Theme - Super Mario Galaxy</h5>
+                    <p></p>
+                    <audio controls>
+                        <source src="audio/gustin.mp3" type="audio/mp3">
+                       </audio>
+            </div>
+             </div> 
+            </div>
+            </div>
+        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+        </button>
+    </div>
+
+    <footer class="footer text-faded text-center py-5">
+        <div class="container">
+            <p class="m-0 small">© Nintendo Entertainment System 2023</p>
+        </div>
+    </footer>
+
+    <!-- Bootstrap core JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="js/scripts.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
